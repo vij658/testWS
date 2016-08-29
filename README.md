@@ -1,6 +1,8 @@
 # testWS
 This project is based on spring RESTful services, maven and spring boot. 
-It recieves a list of zip codes and finds the largest zip codes out of it.
+It recieves a list of zip codes and finds the largest zip code out of it.
+Exception handling is at minimal and the exception message is displayed along with a 505 error page.
+/error mapping is not implemented.
 
 To just run the app, download the jar file 
 https://github.com/vij658/testWS/blob/master/target/zip-code-rest-0.1.0.jar
