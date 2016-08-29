@@ -1,4 +1,4 @@
-hello/StanAlone.class
-hello/ZipCode.class
-hello/ZipCodeController.class
-hello/Greeting.class
+zipcode/ZipCode.class
+zipcode/StanAlone.class
+zipcode/ZipCodeException.class
+zipcode/ZipCodeController.class
