@@ -6,7 +6,9 @@ To just run the app, download the jar file
 https://github.com/vij658/testWS/blob/master/target/zip-code-rest-0.1.0.jar
 
 command to run : java -jar zip-code-rest-0.1.0.jar
+
 Sample input run from browser - http://localhost:8080/Get?zipCodeList=75024,81223,99999
+
 Sample Output : {"zipCodeList":[75024,81223,99999],"finalOutput":"The maximum of the zip code list :99999"}
 
 To compile the application using maven from the root folder
